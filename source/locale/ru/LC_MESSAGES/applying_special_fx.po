@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../source/applying_special_fx.rst:4
 msgid "Applying Effects"
-msgstr ""
+msgstr "Применение эффектов"
 
 #: ../../source/applying_special_fx.rst:5
 msgid ""
@@ -27,12 +27,17 @@ msgid ""
 "Xsheet columns (or Timeline layers) in the **FX Schematic**, where each "
 "element is represented as a node."
 msgstr ""
+"Эффекты можно применять к уровням анимации, изображения и клипам, представленным в"
+"Столбцах Xsheet (или слои временной шкалы) в схеме **FX Schematic**, где каждый"
+"элемент представлен узлом (нодом)"
 
 #: ../../source/applying_special_fx.rst:7
 msgid ""
 "The relationship between the contents of columns/layers and effects can "
 "be managed by connecting or disconnecting links between nodes."
 msgstr ""
+"Связь между содержанием columns/layers и эффектами задают "
+"созданием/удалением линков между узлами."
 
 #: ../../source/applying_special_fx.rst:9
 msgid "|dwanko_before_fx| |dwanko_after_fx|"
@@ -40,7 +45,7 @@ msgstr ""
 
 #: ../../source/applying_special_fx.rst:15
 msgid "Using the FX Schematic"
-msgstr ""
+msgstr "Использование FX Schematic"
 
 #: ../../source/applying_special_fx.rst:16
 msgid ""
@@ -48,6 +53,9 @@ msgid ""
 "output port connected to the Xsheet node: this means that their content "
 "is part of the scene and is rendered as it is."
 msgstr ""
+"В FX schematic все столбцы/слои отображаются как узлы у которых "
+"порт вывода соединен с узлом Xsheet: это означает, что их содержание "
+"это часть сцены и отображается как есть."
 
 #: ../../source/applying_special_fx.rst:18
 msgid ""
@@ -55,6 +63,9 @@ msgid ""
 "to create links that let you set the way the effect modify the scene "
 "contents."
 msgstr ""
+"Когда эффекты добавляются, они также отображаются как узлы с портами "
+"для создания связей, которые позволяют установить способ изменения контента "
+"сцены."
 
 #: ../../source/applying_special_fx.rst:20
 msgid ""
